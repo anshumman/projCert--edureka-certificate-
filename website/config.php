@@ -8,12 +8,12 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple PHP Website',
+        'name' => 'Simple PHP Website belongs to AARAV',
         'nav_menu' => [
             '' => 'Home',
-            'content/about-us.php' => 'About Us',
-            'content/products.php' => 'Products',
-            'content/contact.php' => 'Contact',
+            'content/about-us.php' => 'About AARAV',
+            'content/products.php' => 'Products of AARAV',
+            'content/contact.php' => 'Contact AARAV',
         ],
         'template_path' => 'template',
         'content_path' => 'content',
